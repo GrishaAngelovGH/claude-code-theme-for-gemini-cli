@@ -17,5 +17,5 @@
 | `Gray`            | Neutral gray — used for borders, inactive elements, or subtle dividers. |
 | `DiffAdded`       | Color used to highlight added content (e.g., in diffs or comparisons). |
 | `DiffRemoved`     | Color used to highlight removed content. |
-| `DiffModified`    | Color used to highlight modified content. |
+
 | `GradientColors`  | Array of colors used for gradient effects (e.g., loading bars, transitions). |

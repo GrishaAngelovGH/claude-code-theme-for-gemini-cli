@@ -58,7 +58,6 @@ To use these themes:
         "Gray": "#847A6D",
         "DiffAdded": "#A6E3A1",
         "DiffRemoved": "#F38BA8",
-        "DiffModified": "#89B4FA",
         "GradientColors": [
           "#E67D22",
           "#FFB38A",
@@ -81,7 +80,6 @@ To use these themes:
         "Gray": "#B1ADA1",
         "DiffAdded": "#417D3C",
         "DiffRemoved": "#6E0321",
-        "DiffModified": "#436499",
         "GradientColors": [
           "#C15F3C",
           "#E67D22",
